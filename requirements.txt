@@ -1,0 +1,2 @@
+python-docx>=0.8.11
+fonttools>=4.0.0
